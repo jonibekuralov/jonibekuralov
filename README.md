@@ -1,4 +1,4 @@
-### Hi I'm Jonibek Uralov <img src="https://media3.giphy.com/media/YEL6QTRi7efSM/giphy.webp?cid=ecf05e478zb827aj8ju55oargt0du2opnuk1l23mjn3by2nx&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="200px">
+### Hi I'm Jonibek Uralov <img src="https://media0.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.webp?cid=790b7611cw75ix3s3jj9swjweg0grcp6k1r851guk05qvcuw&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="200px">
 
 <!--
 **jonibekuralov/jonibekuralov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
