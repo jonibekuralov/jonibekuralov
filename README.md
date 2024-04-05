@@ -1,9 +1,9 @@
 ### Hi I'm Jonibek Uralov <img src="https://media0.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.webp?cid=790b7611cw75ix3s3jj9swjweg0grcp6k1r851guk05qvcuw&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="200px">
 
-I'm Software Engineer 
-WORK: IT PARK XORAZM
+I'm Software Engineer <br>
+WORK: IT PARK XORAZM 
 
-<a href="https://www.youtube.com/@jonibek_dev">
+<a href="https://www.youtube.com/@jonibek_dev"> 
  <img scr="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" >
 </a>
 <a href="https://www.linkedin.com/in/jonibekuralov/">
