@@ -4,14 +4,14 @@ I'm Software Engineer <br>
 WORK: IT PARK XORAZM 
 
 <a href="https://www.youtube.com/@jonibek_dev"> 
- <img scr="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" >
+ <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" >
 </a>
 <a href="https://www.linkedin.com/in/jonibekuralov/">
- <img scr="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" >
+ <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" >
 </a>
 <a href="https://t.me/jonibek_devv">
- <img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" >
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" >
 </a>
 <a href="https://www.instagram.com/jonibek.dev">
- <img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" >
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" >
 </a>
