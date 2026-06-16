@@ -1,89 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=JONIBEK%20URALOV&fontSize=55&animation=fadeIn&color=gradient" />
-
-# 👨‍💻 Jonibek Uralov
-
-### Full Stack Developer • Problem Solver • Open Source Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Code;Building+Modern+Applications;Learning+Every+Day;Code+Create+Innovate" />
-
-</div>
-
----
-
-## 🚀 About Me
+# ⚡ JONIBEK URALOV ⚡
 
 
-const jonibek = {
-    name: "Jonibek Uralov",
-    role: "Developer",
-    passion: "Building useful things",
-    focus: [
-        "Web Development",
-        "Backend Systems",
-        "Frontend Interfaces",
-        "Automation",
-        "Open Source"
-    ],
-    status: "Currently coding..."
-};
+> whoami
+
+Jonibek Uralov
+Developer
+Building cool things with code.
 
 
----
-
-## ⚡ What I Build
-
-🖥️ Modern Websites
-
-📱 Responsive User Interfaces
-
-⚙️ Backend APIs
-
-🔗 Full Stack Applications
-
-🤖 Automation Tools
-
-📦 Open Source Projects
-
-🛠️ Developer Utilities
-
-🚀 Creative Side Projects
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,nextjs,git,github,vscode,linux" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&center=true&vCenter=true&width=900&lines=Developer;Open+Source+Enthusiast;Building+Projects;Always+Learning;Turning+Ideas+Into+Reality" />
 
 </div>
 
 ---
 
-## 📂 Current Goals
+## ~/about_me
 
-- Build better projects every month
-- Learn new technologies
-- Contribute to open source
-- Improve problem-solving skills
-- Create tools that help people
+
+class Developer {
+    constructor() {
+        this.name = "Jonibek Uralov";
+        this.role = "Full Stack Developer";
+        this.location = "Uzbekistan";
+        this.status = "Coding...";
+    }
+
+    skills() {
+        return [
+            "Web Development",
+            "Backend Development",
+            "Frontend Development",
+            "Automation",
+            "Open Source"
+        ];
+    }
+}
+
 
 ---
 
-## 💡 Developer Philosophy
+## ~/tech_stack
 
-> First, solve the problem.
->
-> Then, write clean code.
->
-> Finally, make it fast.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,nextjs,git,github,vscode,linux,bash,mongodb,mysql" />
+
+</div>
+
+---
+
+## ~/currently_working_on
+
+
+[✓] Building Projects
+[✓] Learning New Technologies
+[✓] Improving Problem Solving
+[✓] Open Source Contributions
+[✓] Creating Useful Tools
+
+
+---
+
+## ~/developer_mindset
+
+
+while(alive){
+    eat();
+    code();
+    learn();
+    build();
+    repeat();
+}
+
+
+---
+
+## ~/terminal
+
+
+$ skills
+
+✔ Frontend Development
+✔ Backend Development
+✔ REST APIs
+✔ Git & GitHub
+✔ Databases
+✔ Linux
+✔ Problem Solving
+
+$ future
+
+Launching awesome projects...
+
 
 ---
 
 <div align="center">
 
-### ⚡ Eat • Sleep • Code • Repeat ⚡
+## 🚀 CODE • BUILD • LEARN • REPEAT 🚀
 
 </div>
