@@ -1,107 +1,89 @@
 <div align="center">
 
-# ⚡ JONIBEK URALOV ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=JONIBEK%20URALOV&fontSize=55&animation=fadeIn&color=gradient" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile!;Jonibek+Uralov;Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80" />
+# 👨‍💻 Jonibek Uralov
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=JONIBEK%20URALOV&fontSize=55&animation=fadeIn&fontAlignY=38" />
+### Full Stack Developer • Problem Solver • Open Source Enthusiast
 
-</div>
-
----
-
-# 👨‍💻 About Me
-
-
-name: Jonibek Uralov
-role: Developer
-location: Earth 🌍
-learning:
-  - Web Development
-  - Python
-  - JavaScript
-  - Open Source
-hobby:
-  - Coding
-  - Technology
-  - Innovation
-status: Building The Future 🚀
-
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,git&perline=7" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Code;Building+Modern+Applications;Learning+Every+Day;Code+Create+Innovate" />
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 About Me
+
+
+const jonibek = {
+    name: "Jonibek Uralov",
+    role: "Developer",
+    passion: "Building useful things",
+    focus: [
+        "Web Development",
+        "Backend Systems",
+        "Frontend Interfaces",
+        "Automation",
+        "Open Source"
+    ],
+    status: "Currently coding..."
+};
+
+
+---
+
+## ⚡ What I Build
+
+🖥️ Modern Websites
+
+📱 Responsive User Interfaces
+
+⚙️ Backend APIs
+
+🔗 Full Stack Applications
+
+🤖 Automation Tools
+
+📦 Open Source Projects
+
+🛠️ Developer Utilities
+
+🚀 Creative Side Projects
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jonibekuralov&show_icons=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonibekuralov&layout=compact" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,nextjs,git,github,vscode,linux" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 📂 Current Goals
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonibekuralov" />
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jonibekuralov&row=2&column=4" />
-
-</div>
+- Build better projects every month
+- Learn new technologies
+- Contribute to open source
+- Improve problem-solving skills
+- Create tools that help people
 
 ---
 
-# 🌟 Activity Graph
+## 💡 Developer Philosophy
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jonibekuralov" />
-
-</div>
-
----
-
-# 📫 Contact
-
-<div align="center">
-
-💻 Developer
-
-🚀 Open Source Enthusiast
-
-🌍 Always Learning
-
-</div>
+> First, solve the problem.
+>
+> Then, write clean code.
+>
+> Finally, make it fast.
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks For Visiting My Profile ⭐
-
-### 🚀 JONIBEK URALOV 🚀
-
-<img src="https://komarev.com/ghpvc/?username=jonibekuralov&label=Profile+Views" />
+### ⚡ Eat • Sleep • Code • Repeat ⚡
 
 </div>
