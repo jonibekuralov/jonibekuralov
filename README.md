@@ -1,121 +1,74 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=JONIBEK%20URALOV&fontSize=50&fontAlignY=40&color=0:FFD700,50:FFC300,100:FFAA00&animation=fadeIn" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=FFD700&text=JONIBEK%20URALOV&fontColor=111111&fontSize=65&animation=fadeIn&fontAlignY=40" />
+<p align="center">
+  <i>Developer • Creator • Builder • Innovator</i>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Building+Awesome+Projects;Code+Create+Innovate;Always+Learning;Open+Source+Enthusiast" />
+<p align="center">
+  Full Stack Developer | Python Developer
+</p>
 
-</div>
-
----
-
-# 👨‍💻 About Me
-
-
-const jonibek = {
-    name: "Jonibek Uralov",
-    role: "Developer",
-    passion: "Turning ideas into reality",
-    focus: [
-        "Frontend Development",
-        "Backend Development",
-        "Web Applications",
-        "Automation",
-        "Open Source"
-    ],
-    status: "Coding..."
-};
-
+<p align="center">
+<img src="BB092-thumbnail.gif" width="700">
+</p>
 
 ---
 
-# ⚡ Tech Stack
+### About Me
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode,linux,bash,mongodb,mysql" />
-
-</div>
-
----
-
-# 🚀 What I Do
-
-
-✓ Build Modern Websites
-✓ Create Responsive Interfaces
-✓ Develop Backend APIs
-✓ Work With Databases
-✓ Build Full Stack Applications
-✓ Learn New Technologies
-✓ Create Useful Tools
-✓ Solve Problems With Code
-✓ Contribute To Open Source
-
+- Learning Python & Modern Web Development
+- Building Websites and Applications
+- Exploring New Technologies
+- Goal: Become a Professional Software Engineer
 
 ---
 
-# 💻 Terminal
+### Tech Stack
 
-
-$ whoami
-
-Jonibek Uralov
-
-$ role
-
-Developer
-
-$ status
-
-Coding...
-
-$ mission
-
-Build. Learn. Improve. Repeat.
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,vscode,linux" />
+</p>
 
 ---
 
-# 🧠 Mindset
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Enthusiast;Web+Application+Builder;Always+Learning+New+Things" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=FFD700&color=0:1a1a1a,50:2b2b2b,100:000000&animation=fadeIn" />
+</p>
 
-while(true)
-{
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonibekuralov&bg_color=000000&color=FFD700&line=FFC300&point=FFD700&area=true&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-5a9b5f8d-4d63-4d8b-9f4b-6e8b6c5b1d4d.gif" width="700">
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/jonibekuralov">
+    <img src="https://img.shields.io/badge/GitHub-Profile-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
 
-# 📂 Current Goals
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=30&center=true&vCenter=true&width=700&lines=Hi+I'm+Jonibek+Uralov;Full+Stack+Developer;Python+Developer;Future+Software+Engineer" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-[✓] Improve Coding Skills
-[✓] Build Amazing Projects
-[✓] Learn Advanced Technologies
-[✓] Grow As A Developer
-[✓] Share Knowledge
+![](https://komarev.com/ghpvc/?username=jonibekuralov&color=yellow)
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,vscode,linux" />
+</p>
 
----
-
-# 🔥 Developer Philosophy
-
-> Clean code.
->
-> Smart solutions.
->
-> Continuous improvement.
-
----
-
-<div align="center">
-
-## ⚡ JONIBEK URALOV ⚡
-
-### CODE • BUILD • LEARN • REPEAT
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFD700,50:FFC300,100:FFAA00" />
+</p>
